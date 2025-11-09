@@ -1,0 +1,1 @@
+Obs: O CRUD não está implementado, porem a configuração do MongoDB esteja comentada (os dados de filmes estão dentro do código).
